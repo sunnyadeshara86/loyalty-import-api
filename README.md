@@ -1,1 +1,1 @@
-# loyalty-import-api
+# Loyalty Import API
